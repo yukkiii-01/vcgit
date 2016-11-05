@@ -1,5 +1,6 @@
 Sitio web empresa X
  1.- Adquirir diseño
  2.- Contratar Diseñador
-
  3.- Reunion con mailchimp y Mandrill para mailing lists
+ 4.- Cotizar identidad corporativa
+
